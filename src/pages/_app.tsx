@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/ban-ts-comment */
 // @ts-nocheck
 
 import AxiosInterceptor from "common/components/wrapper/AxiosInterceptor";
